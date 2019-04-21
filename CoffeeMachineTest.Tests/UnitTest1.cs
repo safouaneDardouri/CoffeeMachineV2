@@ -47,7 +47,7 @@ namespace CoffeeMachineTest.Tests
                 Commande input1 = CMD.GetDummyData();
                 input1.id++;
                 //Act
-                CS.AjouterCommande(input1);
+                CS.AjouterCommande(input1);  
 
                 //Assert
                 Assert.IsNotNull(CS.TrouverCommandeparUser(input1.userId));
