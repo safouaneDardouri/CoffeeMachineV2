@@ -54,7 +54,6 @@ namespace CoffeeMachineTest.Tests
 
                 //DataReset
                 CS.EffacerCommande(input1);
-
             }
             catch (Exception ex)
             {
