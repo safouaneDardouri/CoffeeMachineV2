@@ -11,7 +11,7 @@ namespace CoffeeMachineTest.Tests
     public class UnitTest1
     {
         /// <summary>
-        /// UnitTest1
+        /// UnitTest1   
         /// <para>
         /// ADD/EDIT/DELETE test
         /// </para>
